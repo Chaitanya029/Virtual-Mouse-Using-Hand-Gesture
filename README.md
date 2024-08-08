@@ -2,6 +2,8 @@
 Hey Everyone, Chaitanya Jagarwal this side...
 In this project, we will use the live feed from the webcam to create a virtual mouse using hand tracking.
 
+![xr-7499160_640](https://github.com/user-attachments/assets/7ccb0b51-9fe1-4628-bd18-9d7bdcfcc15a)
+
 ## Project Description:
 In this project, I am using my hand as a virtual mouse than can do everything that a mouse does without even touching your system. I am using my system's webcam to detect my hands. It will then create a bounding box around my hand and focus on two fingers: The forefinger and the middle finger. The forefinger will act as a cursor and moving it around, we will be moving the cursor around. Now, inorder to successfully click using hand tracking, it detects the distance between the forefinger and the middle finger. If they are joined together, then it will perform a click. 
 
@@ -32,11 +34,15 @@ AutoPy is a simple, cross-platform GUI automation library for Python. It include
 It can be installed using "pip install autopy"
 
 ## Important Note:
+![vr-6770800_640](https://github.com/user-attachments/assets/63eb00bd-5c0f-4a6b-9731-7059e3f1eee2)
+
 I faced alot of dependency issues throughout this project. Some of the issues and their solutions are as follows:
 - autopy not installing: This is because autopy currently doesn't support Python versions above 3.8
 - webcam not opening: It was a bug in mediapipe and was fixed in latest python versions
 
 Hence, inorder for the project to run smoothly, you need to degrade the Python version to 3.8
+
+![ai-generated-8351764_640](https://github.com/user-attachments/assets/bbba991b-e33d-4d61-baa8-6b3b823ddcdd)
 
 ### How to Degrade Python Version:
 Follow the following steps:
@@ -46,4 +52,6 @@ Follow the following steps:
 - Install it.
 - Open command promt and run "pip" inorder to confirm installation.
 - Your Python version has been degraded :)
+
+
 
