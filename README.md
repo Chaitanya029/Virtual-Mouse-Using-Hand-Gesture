@@ -42,9 +42,10 @@ I faced alot of dependency issues throughout this project. Some of the issues an
 
 Hence, inorder for the project to run smoothly, you need to degrade the Python version to 3.8
 
-![ai-generated-8351764_640](https://github.com/user-attachments/assets/bbba991b-e33d-4d61-baa8-6b3b823ddcdd)
-
 ### How to Degrade Python Version:
+
+![chatbot-8147907_1280](https://github.com/user-attachments/assets/ce9d5115-ebfb-4c38-8f53-3516051b9cd8)
+
 Follow the following steps:
 - Uninstall Python from add/remove programs
 - Go to AppData and remove any python folder you see.
